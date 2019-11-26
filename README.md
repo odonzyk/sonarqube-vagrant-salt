@@ -7,7 +7,7 @@
 - automatical start after vagrant up
 - some tools like: vim, htop, iotop, bwm-ng, curl, mc, git
 
-## First install of the VirtualBox with Vagrat ##
+## First install of the VirtualBox with Vagrant ##
 ```
 vagrant up
 ```
