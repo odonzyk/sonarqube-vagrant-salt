@@ -1,4 +1,4 @@
-# Donarqube with Vagrant and Saltstack
+# Sonarqube with Vagrant and Saltstack
 
 - creates a new virtualbox with masterless saltstack  
 - install Sonarqube Version 8.0 (build 29455)
