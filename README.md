@@ -1,7 +1,11 @@
-# Sonarqube with Vagrant and Saltstack
+# Sonarqube installed with Vagrant and Saltstack on bento/ubuntu-19.04
 
 - creates a new virtualbox with masterless saltstack  
+- install Open JDK 11 JRE
 - install Sonarqube Version 8.0 (build 29455)
+- update the Box with Saltstack
+- automatical start after vagrant up
+- some tools like: vim, htop, iotop, bwm-ng, curl, mc, git
 
 ## First install of the VirtualBox with Vagrat ##
 ```
@@ -16,12 +20,6 @@ In the VirtualBox, you can find important folders mounted from the host:
 * /etc/salt
 * /srv/salt/
 * /var/www/
-
-## Features ##
-
-* Open JDK 11 JRE
-* Git
-
 
 ## Debugging
 
