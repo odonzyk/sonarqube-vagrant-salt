@@ -1,4 +1,4 @@
-# Sonarqube installed with Vagrant and Saltstack on bento/ubuntu-19.04
+# Sonarqube Community Edition 8.0, installed with Vagrant and Saltstack on bento/ubuntu-19.04
 
 - creates a new virtualbox with masterless saltstack  
 - install Open JDK 11 JRE
